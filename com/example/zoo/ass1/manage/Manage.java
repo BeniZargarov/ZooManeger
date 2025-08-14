@@ -15,7 +15,7 @@ public class Manage implements ZooService {
     @Override
     public String getZooTitle() {
         // TODO need to implements
-        return "";
+        return "hi beni";
     }
 
     @Override
