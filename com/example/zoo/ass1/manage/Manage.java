@@ -16,8 +16,6 @@ public class Manage implements ZooService {
     public String getZooTitle() {
         // TODO need to implements
         //123
-        //123
-        //123
         return "";
     }
 
